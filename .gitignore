@@ -1,8 +1,10 @@
 # Ignore Python virtual environments
 venv/
 
+# Project specific ignores
 # Ignore the actual config file to prevent sensitive data from being committed
 config.yaml
+
 # General
 .DS_Store
 .AppleDouble
