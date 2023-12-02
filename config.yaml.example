@@ -1,0 +1,4 @@
+api_url: https://your-jira-instance.atlassian.net/rest/api/3
+token: your-api-token
+default_board: your-default-board-id
+default_team: your-default-team-id

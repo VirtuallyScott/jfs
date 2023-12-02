@@ -1,0 +1,10 @@
+This git repo will contain a Python script called JFS, Jira Fucking Sucks. Create python script that will be interactive menu driven and made up of functions that leverage the JIRA REST API. Script should run in a venv and include a yaml config file to configure the REST API URL, Token, Default Board, Default Team. Create a README.md that documents how to add future menu options and their associated scripts. Create a copy of the config.yaml as config.yaml.example and create a .gitignore file with the appropriate ignores including config.yaml and venv.
+1. Create new JIRA Issue as Epic
+2. Create new JIRA Issue as Story
+3. Move an Issue through workflow, request JIRA Issue Number
+    Return Current Step in workflow
+    Confirm Request to Move to the Next Step
+4. Export All Open Issues to CSV
+5. Export All Open Issues Assigned To Me To CSV
+6. Import CSV
+    Prompt for location of csv

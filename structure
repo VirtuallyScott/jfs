@@ -1,0 +1,14 @@
+jfs/
+├── .gitignore
+├── README.md
+├── config.yaml.example
+├── requirements.txt
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── jira_api.py
+│   ├── menu.py
+│   └── utils.py
+└── tests/
+    ├── __init__.py
+    └── test_jira_api.py
